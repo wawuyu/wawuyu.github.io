@@ -1,5 +1,5 @@
 [submodule "jiangkuanc.github.io"]
-	path = jiangkuanc.github.io
+	path = public
 	url = https://github.com/jiangkuanc/jiangkuanc.github.io
 [submodule "content/blog"]
 	path = content/blog
