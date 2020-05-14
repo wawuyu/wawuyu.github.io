@@ -1,0 +1,55 @@
+INFO 2020/05/14 17:47:17 No translation bundle found for default language "en"
+INFO 2020/05/14 17:47:17 Translation func for language en not found, use default.
+INFO 2020/05/14 17:47:17 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2020/05/14 17:47:17 Using config file: 
+Building sites … INFO 2020/05/14 17:47:17 syncing static files to /
+
+                   | EN  
+-------------------+-----
+  Pages            | 61  
+  Paginator pages  | 14  
+  Non-page files   |  0  
+  Static files     | 48  
+  Processed images |  0  
+  Aliases          | 21  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 341 ms
+Watching for changes in /root/blog/{archetypes,assets,content,data,layouts,static}
+Watching for config changes in /root/blog/config.toml
+Environment: "development"
+Serving pages from memory
+Web Server is available at https://www.tangyexinshichong.com/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2020-05-14 17:48:59.332 +0800
+INFO 2020/05/14 17:48:59 No translation bundle found for default language "en"
+INFO 2020/05/14 17:48:59 Translation func for language en not found, use default.
+INFO 2020/05/14 17:48:59 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2020/05/14 17:48:59 Using config file: 
+INFO 2020/05/14 17:48:59 syncing static files to /
+Rebuilt in 249 ms
+INFO 2020/05/14 18:28:48 Received System Events: ["/root/blog/content/blog/post-12.md": REMOVE "/root/blog/content/blog/post-1.md": REMOVE "/root/blog/content/blog/post-11.md": REMOVE "/root/blog/content/blog/post-9.md": REMOVE "/root/blog/content/blog/.git": REMOVE "/root/blog/content/blog/git/gitlfs.md": REMOVE "/root/blog/content/blog/git": REMOVE "/root/blog/content/blog/git": REMOVE "/root/blog/content/blog/post-3.md": REMOVE "/root/blog/content/blog/post-7.md": REMOVE "/root/blog/content/blog/post-2.md": REMOVE "/root/blog/content/blog/post-4.md": REMOVE "/root/blog/content/blog/post-13.md": REMOVE "/root/blog/content/blog/post-8.md": REMOVE "/root/blog/content/blog/post-5.md": REMOVE "/root/blog/content/blog/post-10.md": REMOVE "/root/blog/content/blog/_index.md": REMOVE "/root/blog/content/blog/post-6.md": REMOVE "/root/blog/content/blog": REMOVE "/root/blog/content/blog": REMOVE]
+
+Change detected, rebuilding site.
+2020-05-14 18:28:48.332 +0800
+Source changed "/root/blog/content/blog/post-12.md": REMOVE
+Source changed "/root/blog/content/blog/post-1.md": REMOVE
+Source changed "/root/blog/content/blog/post-11.md": REMOVE
+Source changed "/root/blog/content/blog/post-9.md": REMOVE
+Source changed "/root/blog/content/blog/git/gitlfs.md": REMOVE
+Source changed "/root/blog/content/blog/git": REMOVE
+Source changed "/root/blog/content/blog/post-3.md": REMOVE
+Source changed "/root/blog/content/blog/post-7.md": REMOVE
+Source changed "/root/blog/content/blog/post-2.md": REMOVE
+Source changed "/root/blog/content/blog/post-4.md": REMOVE
+Source changed "/root/blog/content/blog/post-13.md": REMOVE
+Source changed "/root/blog/content/blog/post-8.md": REMOVE
+Source changed "/root/blog/content/blog/post-5.md": REMOVE
+Source changed "/root/blog/content/blog/post-10.md": REMOVE
+Source changed "/root/blog/content/blog/_index.md": REMOVE
+Source changed "/root/blog/content/blog/post-6.md": REMOVE
+Source changed "/root/blog/content/blog": REMOVE
+Total in 33 ms
