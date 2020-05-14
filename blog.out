@@ -53,3 +53,30 @@ Source changed "/root/blog/content/blog/_index.md": REMOVE
 Source changed "/root/blog/content/blog/post-6.md": REMOVE
 Source changed "/root/blog/content/blog": REMOVE
 Total in 33 ms
+INFO 2020/05/14 18:32:59 Received System Events: ["/root/blog/content/blog": CREATE]
+adding created directory to watchlist /root/blog/content/blog
+
+Change detected, rebuilding site.
+2020-05-14 18:32:59.332 +0800
+Total in 31 ms
+INFO 2020/05/14 18:33:03 Received System Events: ["/root/blog/content/blog/.git": WRITE "/root/blog/content/blog/.git": WRITE "/root/blog/content/blog/_index.md": CREATE "/root/blog/content/blog/_index.md": WRITE "/root/blog/content/blog/git": CREATE "/root/blog/content/blog/post-1.md": CREATE "/root/blog/content/blog/post-1.md": WRITE "/root/blog/content/blog/post-10.md": CREATE "/root/blog/content/blog/post-10.md": WRITE "/root/blog/content/blog/post-11.md": CREATE "/root/blog/content/blog/post-11.md": WRITE "/root/blog/content/blog/post-12.md": CREATE "/root/blog/content/blog/post-12.md": WRITE "/root/blog/content/blog/post-13.md": CREATE "/root/blog/content/blog/post-13.md": WRITE "/root/blog/content/blog/post-2.md": CREATE "/root/blog/content/blog/post-2.md": WRITE "/root/blog/content/blog/post-3.md": CREATE "/root/blog/content/blog/post-3.md": WRITE "/root/blog/content/blog/post-4.md": CREATE "/root/blog/content/blog/post-4.md": WRITE "/root/blog/content/blog/post-5.md": CREATE "/root/blog/content/blog/post-5.md": WRITE "/root/blog/content/blog/post-6.md": CREATE "/root/blog/content/blog/post-6.md": WRITE "/root/blog/content/blog/post-7.md": CREATE "/root/blog/content/blog/post-7.md": WRITE "/root/blog/content/blog/post-8.md": CREATE "/root/blog/content/blog/post-8.md": WRITE "/root/blog/content/blog/post-9.md": CREATE "/root/blog/content/blog/post-9.md": WRITE]
+adding created directory to watchlist /root/blog/content/blog/git
+
+Change detected, rebuilding site.
+2020-05-14 18:33:03.332 +0800
+Source changed "/root/blog/content/blog/_index.md": WRITE
+Source changed "/root/blog/content/blog/git/gitlfs.md": CREATE
+Source changed "/root/blog/content/blog/post-1.md": WRITE
+Source changed "/root/blog/content/blog/post-10.md": WRITE
+Source changed "/root/blog/content/blog/post-11.md": WRITE
+Source changed "/root/blog/content/blog/post-12.md": WRITE
+Source changed "/root/blog/content/blog/post-13.md": WRITE
+Source changed "/root/blog/content/blog/post-2.md": WRITE
+Source changed "/root/blog/content/blog/post-3.md": WRITE
+Source changed "/root/blog/content/blog/post-4.md": WRITE
+Source changed "/root/blog/content/blog/post-5.md": WRITE
+Source changed "/root/blog/content/blog/post-6.md": WRITE
+Source changed "/root/blog/content/blog/post-7.md": WRITE
+Source changed "/root/blog/content/blog/post-8.md": WRITE
+Source changed "/root/blog/content/blog/post-9.md": WRITE
+Total in 199 ms
