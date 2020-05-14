@@ -24,6 +24,4 @@ tags:
 
 # post type
 type: "post"
-
-summary:"asdasdqweq"
 ---
