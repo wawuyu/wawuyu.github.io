@@ -23,7 +23,7 @@ type: "featured"
 
 ## channel 介绍
 
-​		goroutine是Go语言程序的并发体的话，那么channel则是它们之间的通信机制。一个channel是一个通信机制，它可以让一个goroutine通过它给另一个goroutine发送值信息。每个channel都有一个特殊的类型，也就是channels可发送数据的类型。
+goroutine是Go语言程序的并发体的话，那么channel则是它们之间的通信机制。一个channel是一个通信机制，它可以让一个goroutine通过它给另一个goroutine发送值信息。每个channel都有一个特殊的类型，也就是channels可发送数据的类型。
 
 ## channel 使用场景
 
