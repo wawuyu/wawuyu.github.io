@@ -58,7 +58,7 @@ type: "featured"
 |   ch <-   |     阻塞     | 成功或阻塞  |     panic     |
 | close(ch) |    panic     |    成功     |     panic     |
 
-<p style = "color:red">对于nil通道的情况，也并非完全遵循上表，**有1个特殊场景**：当`nil`的通道在`select`的某个`case`中时，这个case会阻塞，但不会造成死锁。</p>
+<p style = "color:red">对于nil通道的情况，也并非完全遵循上表，有1个特殊场景：当`nil`的通道在`select`的某个`case`中时，这个case会阻塞，但不会造成死锁。<p>
 
 
 ---
