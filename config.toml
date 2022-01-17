@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.tangyexinshichong.com"
+baseURL = "https://jiangkuanc.github.io"
 languageCode = "zh-CN"
 title = "唐叶心事重"
 theme = "liva-hugo"
