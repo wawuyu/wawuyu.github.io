@@ -46,9 +46,7 @@ type: "featured"
 
    
 
-   ![image-20220118150629350](../../images/post/books/feynman/image-20220118150629350.png)
-
-   ![image](../../images/post/post-1.jpg)
+   ![image-20220118150629350](/images/post/books/feynman/image-20220118150629350.png)
 
 ---
 
@@ -166,7 +164,7 @@ type: "featured"
 
 ##### 筛选和留下最可靠的知识
 
-![筛选知识的标准和流程](../../images/post/books/feynman/knowledge.png)
+![筛选知识的标准和流程](/images/post/books/feynman/knowledge.png)
 
 ###### 筛选知识方法论
 
