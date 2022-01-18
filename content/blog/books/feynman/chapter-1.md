@@ -43,10 +43,9 @@ type: "featured"
 + `review` 回顾和反思。
 
 + `simplify` 实现知识的简化和吸收。
+  
 
-
-
-![image-20220118170735012](/images/post/books/feynman/image-20220118170735012.png)
+![image-20220118185004347](/images/post/books/feynman/image-20220118185004347.png)
 
 ---
 
