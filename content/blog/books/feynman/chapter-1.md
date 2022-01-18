@@ -44,9 +44,7 @@ type: "featured"
 
 5. `simplify` 实现知识的简化和吸收。
 
-   
-
-   ![image-20220118150629350](/images/post/books/feynman/image-20220118150629350.png)
+   <img src="/images/post/books/feynman/image-20220118150629350.png" alt="image-20220118150629350" style="zoom:40%;" />
 
 ---
 
