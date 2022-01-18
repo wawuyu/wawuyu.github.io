@@ -1,24 +1,23 @@
----
-title: "费曼学习法"
-date: 2022-01-18T16:00:00+06:00
+--
+title: "微信退款"
+date: 2020-05-14T22:00:00+06:00
 draft: false
 
 # post thumb
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "费曼学习法流程"
+description: "this is meta description"
 
 # taxonomies
-categories: 
-  - "Books"
+categories:
+  - "tripartite"
 tags:
-  - "高效学习"
+  - "Java"
 
 # post type
 type: "featured"
 ---
-
 
 
 ## 费曼学习法
