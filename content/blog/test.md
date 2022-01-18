@@ -4,22 +4,23 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-3.jpg"
+image: "images/featured-post/post-1.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Programming Language"
+  - "Android And Gmaing"
 tags:
+  - "Photos"
   - "Game"
-  - "HTML"
+  - "React"
   - "Python"
   - "New"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 # Heading 1
@@ -134,7 +135,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 <hr>
 
-### Tables
+##### Tables
 
 Colons can be used to align columns.
 
