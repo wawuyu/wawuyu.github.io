@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tyxsc.github.io"
+baseURL = "https://tyxsc.github.io/website"
 languageCode = "zh-CN"
 title = "唐叶心事重"
 theme = "liva-hugo"
