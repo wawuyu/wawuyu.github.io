@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://tyxsc.github.io"
 languageCode = "zh-CN"
-title = "唐叶心事重x"
+title = "唐叶心事重"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
