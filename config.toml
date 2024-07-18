@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tyxsc.github.io"
+baseURL = "https://triplexo.github.io"
 languageCode = "zh-CN"
 title = "唐叶"
 theme = "liva-hugo"
