@@ -1,1 +1,1 @@
-# tyxsc.github.io
+# triplexo.github.io
