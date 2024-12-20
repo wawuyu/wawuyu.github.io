@@ -1,7 +1,7 @@
 ---
 title: "费曼学习法"
 date: 2020-01-18T16:00:00+06:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/featured-post/post-1.jpg"
