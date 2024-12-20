@@ -25,7 +25,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-website@v3
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.PERSON_TOKEN }}
           publish_dir: ./public
+		  publish_branch: website
