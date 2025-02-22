@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://triplexo.github.io"
+baseURL = "https://wawuyu.github.io"
 languageCode = "zh-CN"
 title = "唐叶"
 theme = "liva-hugo"
